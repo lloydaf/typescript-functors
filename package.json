@@ -1,0 +1,19 @@
+{
+  "name": "typescript-functors",
+  "version": "1.0.0",
+  "description": "A library to transform ordinary objects to Functors",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lloydaf/typescript-functors.git"
+  },
+  "author": "Lloyd Francis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lloydaf/typescript-functors/issues"
+  },
+  "homepage": "https://github.com/lloydaf/typescript-functors#readme"
+}
