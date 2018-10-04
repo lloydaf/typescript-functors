@@ -1,8 +1,12 @@
 {
   "name": "typescript-functors",
   "version": "1.0.0",
-  "description": "A library to transform ordinary objects to Functors",
-  "main": "index.ts",
+  "description": "A very small library to transform ordinary objects to Functors",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "Functor", "Typescript", "Library"
+  ],
   "scripts": {
     "test": "jest --config jestconfig.json",
     "build": "tsc"
