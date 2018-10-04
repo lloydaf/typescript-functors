@@ -11,7 +11,7 @@ This is a very small libary for transforming objects into functors
 # Usage
 
 ```typescript
-import {Functor} from 'typescript-functors';\
+import {Functor} from 'typescript-functors';
 ...
 
 //To transform any object to a functor, just wrap it using Functor.of() and retrieve data using .get()
