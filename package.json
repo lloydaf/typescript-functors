@@ -4,7 +4,8 @@
   "description": "A library to transform ordinary objects to Functors",
   "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lloydaf/typescript-functors/issues"
   },
-  "homepage": "https://github.com/lloydaf/typescript-functors#readme"
+  "homepage": "https://github.com/lloydaf/typescript-functors#readme",
+  "devDependencies": {
+    "typescript": "^3.1.1"
+  }
 }
