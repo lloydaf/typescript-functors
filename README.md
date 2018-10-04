@@ -2,13 +2,13 @@
 
 This is a very small libary for transforming objects into functors
 
-#Installation:
+# Installation:
 
 ```
     npm install --save typescript-functors
 ```
 
-#Usage
+# Usage
 
 ```typescript
 import {Functor} from 'typescript-functors';\
